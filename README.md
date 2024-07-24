@@ -12,6 +12,6 @@ Operational database diagram of the dealership:
 
 ![alt text](<images_readme/diagram of the dealership.png>)
 
-Explore operetional database (PostgreSQL)
+Explore operetional database (PostgreSQL)[https://github.com/Giuseppe31-s/bootcamp_data_engineer_FA/tree/master/Explore_operetional_db]
 
 
